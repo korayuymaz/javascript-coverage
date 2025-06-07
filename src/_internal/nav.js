@@ -3,6 +3,10 @@ const navLinks = [
 		label: "Arrays",
 		href: "/arrays",
 	},
+	{
+		label: "Objects",
+		href: "/objects",
+	},
 ];
 
 const navHTML = /*html*/ `
