@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body {
+	opacity: 0;
+}
+
+body.ready {
+	opacity: 1;
+}
