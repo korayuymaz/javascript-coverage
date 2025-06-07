@@ -8,3 +8,8 @@ body {
 body.ready {
 	opacity: 1;
 }
+
+.card {
+	@apply border border-gray-300 rounded-md p-4;
+	@apply flex flex-col gap-1 mb-4;
+}
